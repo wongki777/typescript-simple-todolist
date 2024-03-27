@@ -2,11 +2,8 @@
   font-family: 'Open Sans';
 }
 body {
-  background: linear-gradient(
-    90deg,
-    rgba(105, 20, 204, 1) 0%,
-    rgba(44, 114, 251, 1) 100%
-  );
+  background-image: url(./assets/bg-01.jpg);
+  background-size: cover;
 }
 .todo-app {
   display: flex;
